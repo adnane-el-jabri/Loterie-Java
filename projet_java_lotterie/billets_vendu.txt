@@ -1,0 +1,5 @@
+ID du Ticket: 98c11e0eb8aa4efc8203, Numéros: [33, 2, 20, 55, 13], Categorie: 2
+ID du Ticket: ed849d5b44b04795844a, Numéros: [1, 5, 55, 59, 28], Categorie: 1
+ID du Ticket: b462b65abd8e4ebf85fb, Numéros: [21, 70, 57, 43, 77], Categorie: 1
+ID du Ticket: 404fb6714f9e4fb0ba3d, Numéros: [2, 53, 6, 62, 15], Categorie: 1
+ID du Ticket: fcdea38007a8479bb128, Numéros: [86, 39, 40, 12, 45], Categorie: 1
